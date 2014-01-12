@@ -16,3 +16,12 @@ Run
 cd ../bin/
 java gt.dvdyzag.JBubbles
 ```
+Make Jar
+```bash
+jar cfe JBubbles.jar gt.dvdyzag.JBubbles acercade gt imagenes
+```
+Run Jar
+```bash
+java -jar JBubbles.jar
+
+```
