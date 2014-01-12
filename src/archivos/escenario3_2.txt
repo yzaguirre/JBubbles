@@ -1,0 +1,9 @@
+Y,V,A,R,Y,V,A,R,Y,V
+R,Y,V,A,R,Y,V,A,R,Y
+A,R,Y,V,A,R,Y,V,A,R
+V,A,R,Y,V,A,R,Y,V,A
+0,0,0,0,0,0,0,0,0,0
+V,Y,R,A,V,Y,R,A,V,Y
+Y,R,A,V,Y,R,A,V,Y,R
+R,A,V,Y,R,A,V,Y,R,A
+0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+dist
+bin
+*.class
+Manual*
+src/Datos
+# Package Files #
+*.jar
+*.war
+*.ear
